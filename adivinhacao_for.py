@@ -13,7 +13,8 @@ pontos = 1000
 print('Qual o nível de dificuldade?')
 print('1 - Fácil\n2 - Médio\n3 - Difícil')
 
-print (numero_secreto)
+print (numero_secreto) #mostrando o número random
+
 nivel = int(input('Escolha o nível de dificuldade: '))
 
 if(nivel == 1):
