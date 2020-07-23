@@ -1,5 +1,7 @@
 import requests
 
+#Aplicação que consome API e retorna o endereço
+
 def main():
     print('*****************************')
     print('** Consultando CEP **')
